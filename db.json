@@ -1,31 +1,16 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "id": "chaitanya",
+      "password": "password1"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "id": "abhiram",
+      "title": "password22"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "id": "rams",
+      "title": "password3"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
