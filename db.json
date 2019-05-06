@@ -2,15 +2,23 @@
   "users": [
     {
       "id": "chaitanya",
-      "password": "password1"
+      "password": "wolverine"
     },
     {
       "id": "abhiram",
-      "password": "password2"
+      "password": "veerapaneni"
     },
     {
       "id": "rams",
-      "password": "password3"
+      "password": "namburbutter"
+    },
+    {
+      "id": "sudhanth",
+      "password": "hoopapi"
+    },
+    {
+      "id": "paramesh",
+      "password": "rookbrozers"
     }
   ]
 }
